@@ -1,0 +1,10 @@
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\bin\Debug\netcoreapp3.1\24.2.20f.exe
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\bin\Debug\netcoreapp3.1\24.2.20f.deps.json
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\bin\Debug\netcoreapp3.1\24.2.20f.runtimeconfig.json
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\bin\Debug\netcoreapp3.1\24.2.20f.runtimeconfig.dev.json
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\bin\Debug\netcoreapp3.1\24.2.20f.dll
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\bin\Debug\netcoreapp3.1\24.2.20f.pdb
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\obj\Debug\netcoreapp3.1\24.2.20f.AssemblyInfoInputs.cache
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\obj\Debug\netcoreapp3.1\24.2.20f.AssemblyInfo.cs
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\obj\Debug\netcoreapp3.1\24.2.20f.dll
+C:\Users\VRFamily\source\repos\24.2.20f\24.2.20f\obj\Debug\netcoreapp3.1\24.2.20f.pdb
